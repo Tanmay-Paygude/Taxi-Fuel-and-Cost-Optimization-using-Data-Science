@@ -1,0 +1,316 @@
+pickup_location,dropoff_location,distance_km,traffic,fuel_type,fuel_quantity,unit,fuel_cost_inr
+Pune City,Haveli,88,Low,Petrol,5.87,Litre,645.7
+Pune City,Haveli,88,High,Diesel,4.89,Litre,464.55
+Pune City,Haveli,88,High,CNG,4.0,Kg,340.0
+Pune City,Khed,41,Low,Petrol,2.73,Litre,300.3
+Pune City,Khed,41,High,Diesel,2.28,Litre,216.6
+Pune City,Khed,41,High,CNG,1.86,Kg,158.1
+Pune City,Ambegaon,23,Low,Petrol,1.53,Litre,168.3
+Pune City,Ambegaon,23,Medium,Diesel,1.28,Litre,121.6
+Pune City,Ambegaon,23,Low,CNG,1.05,Kg,89.25
+Pune City,Junnar,38,Medium,Petrol,2.53,Litre,278.3
+Pune City,Junnar,38,Medium,Diesel,2.11,Litre,200.45
+Pune City,Junnar,38,Medium,CNG,1.73,Kg,147.05
+Pune City,Shirur,43,High,Petrol,2.87,Litre,315.7
+Pune City,Shirur,43,Low,Diesel,2.39,Litre,227.05
+Pune City,Shirur,43,Medium,CNG,1.95,Kg,165.75
+Pune City,Daund,81,Medium,Petrol,5.4,Litre,594.0
+Pune City,Daund,81,High,Diesel,4.5,Litre,427.5
+Pune City,Daund,81,Low,CNG,3.68,Kg,312.8
+Pune City,Indapur,100,Low,Petrol,6.67,Litre,733.7
+Pune City,Indapur,100,Medium,Diesel,5.56,Litre,528.2
+Pune City,Indapur,100,High,CNG,4.55,Kg,386.75
+Pune City,Baramati,58,High,Petrol,3.87,Litre,425.7
+Pune City,Baramati,58,Medium,Diesel,3.22,Litre,305.9
+Pune City,Baramati,58,Medium,CNG,2.64,Kg,224.4
+Pune City,Purandar,85,Medium,Petrol,5.67,Litre,623.7
+Pune City,Purandar,85,Low,Diesel,4.72,Litre,448.4
+Pune City,Purandar,85,High,CNG,3.86,Kg,328.1
+Pune City,Bhor,95,Medium,Petrol,6.33,Litre,696.3
+Pune City,Bhor,95,Low,Diesel,5.28,Litre,501.6
+Pune City,Bhor,95,High,CNG,4.32,Kg,367.2
+Pune City,Velhe,90,High,Petrol,6.0,Litre,660.0
+Pune City,Velhe,90,Low,Diesel,5.0,Litre,475.0
+Pune City,Velhe,90,Low,CNG,4.09,Kg,347.65
+Pune City,Mulshi,62,High,Petrol,4.13,Litre,454.3
+Pune City,Mulshi,62,High,Diesel,3.44,Litre,326.8
+Pune City,Mulshi,62,Low,CNG,2.82,Kg,239.7
+Pune City,Maval,93,High,Petrol,6.2,Litre,682.0
+Pune City,Maval,93,Low,Diesel,5.17,Litre,491.15
+Pune City,Maval,93,Medium,CNG,4.23,Kg,359.55
+Pune City,Pimpri-Chinchwad City,93,Low,Petrol,6.2,Litre,682.0
+Pune City,Pimpri-Chinchwad City,93,Medium,Diesel,5.17,Litre,491.15
+Pune City,Pimpri-Chinchwad City,93,Low,CNG,4.23,Kg,359.55
+Haveli,Khed,52,Low,Petrol,3.47,Litre,381.7
+Haveli,Khed,52,High,Diesel,2.89,Litre,274.55
+Haveli,Khed,52,High,CNG,2.36,Kg,200.6
+Haveli,Ambegaon,61,Medium,Petrol,4.07,Litre,447.7
+Haveli,Ambegaon,61,High,Diesel,3.39,Litre,322.05
+Haveli,Ambegaon,61,Medium,CNG,2.77,Kg,235.45
+Haveli,Junnar,67,Low,Petrol,4.47,Litre,491.7
+Haveli,Junnar,67,High,Diesel,3.72,Litre,353.4
+Haveli,Junnar,67,Low,CNG,3.05,Kg,259.25
+Haveli,Shirur,28,Low,Petrol,1.87,Litre,205.7
+Haveli,Shirur,28,Low,Diesel,1.56,Litre,148.2
+Haveli,Shirur,28,High,CNG,1.27,Kg,107.95
+Haveli,Daund,92,Low,Petrol,6.13,Litre,674.3
+Haveli,Daund,92,Low,Diesel,5.11,Litre,485.45
+Haveli,Daund,92,Low,CNG,4.18,Kg,355.3
+Haveli,Indapur,55,High,Petrol,3.67,Litre,403.7
+Haveli,Indapur,55,Low,Diesel,3.06,Litre,290.7
+Haveli,Indapur,55,Low,CNG,2.5,Kg,212.5
+Haveli,Baramati,56,Low,Petrol,3.73,Litre,410.3
+Haveli,Baramati,56,High,Diesel,3.11,Litre,295.45
+Haveli,Baramati,56,High,CNG,2.55,Kg,216.75
+Haveli,Purandar,25,Medium,Petrol,1.67,Litre,183.7
+Haveli,Purandar,25,High,Diesel,1.39,Litre,132.05
+Haveli,Purandar,25,Low,CNG,1.14,Kg,96.9
+Haveli,Bhor,52,Medium,Petrol,3.47,Litre,381.7
+Haveli,Bhor,52,Low,Diesel,2.89,Litre,274.55
+Haveli,Bhor,52,Low,CNG,2.36,Kg,200.6
+Haveli,Velhe,87,Medium,Petrol,5.8,Litre,638.0
+Haveli,Velhe,87,Medium,Diesel,4.83,Litre,458.85
+Haveli,Velhe,87,High,CNG,3.95,Kg,335.75
+Haveli,Mulshi,39,Low,Petrol,2.6,Litre,286.0
+Haveli,Mulshi,39,Low,Diesel,2.17,Litre,206.15
+Haveli,Mulshi,39,Low,CNG,1.77,Kg,150.45
+Haveli,Maval,67,Medium,Petrol,4.47,Litre,491.7
+Haveli,Maval,67,Medium,Diesel,3.72,Litre,353.4
+Haveli,Maval,67,High,CNG,3.05,Kg,259.25
+Haveli,Pimpri-Chinchwad City,37,Medium,Petrol,2.47,Litre,271.7
+Haveli,Pimpri-Chinchwad City,37,High,Diesel,2.06,Litre,195.7
+Haveli,Pimpri-Chinchwad City,37,Medium,CNG,1.68,Kg,142.8
+Khed,Ambegaon,65,Medium,Petrol,4.33,Litre,476.3
+Khed,Ambegaon,65,High,Diesel,3.61,Litre,342.95
+Khed,Ambegaon,65,Low,CNG,2.95,Kg,250.75
+Khed,Junnar,70,High,Petrol,4.67,Litre,513.7
+Khed,Junnar,70,Low,Diesel,3.89,Litre,369.55
+Khed,Junnar,70,Medium,CNG,3.18,Kg,270.3
+Khed,Shirur,42,Medium,Petrol,2.8,Litre,308.0
+Khed,Shirur,42,Medium,Diesel,2.33,Litre,221.35
+Khed,Shirur,42,High,CNG,1.91,Kg,162.35
+Khed,Daund,89,Low,Petrol,5.93,Litre,652.3
+Khed,Daund,89,Low,Diesel,4.94,Litre,469.3
+Khed,Daund,89,Medium,CNG,4.05,Kg,344.25
+Khed,Indapur,87,Low,Petrol,5.8,Litre,638.0
+Khed,Indapur,87,Low,Diesel,4.83,Litre,458.85
+Khed,Indapur,87,Medium,CNG,3.95,Kg,335.75
+Khed,Baramati,27,Medium,Petrol,1.8,Litre,198.0
+Khed,Baramati,27,Low,Diesel,1.5,Litre,142.5
+Khed,Baramati,27,High,CNG,1.23,Kg,104.55
+Khed,Purandar,68,Low,Petrol,4.53,Litre,498.3
+Khed,Purandar,68,High,Diesel,3.78,Litre,359.1
+Khed,Purandar,68,High,CNG,3.09,Kg,262.65
+Khed,Bhor,89,High,Petrol,5.93,Litre,652.3
+Khed,Bhor,89,High,Diesel,4.94,Litre,469.3
+Khed,Bhor,89,High,CNG,4.05,Kg,344.25
+Khed,Velhe,26,High,Petrol,1.73,Litre,190.3
+Khed,Velhe,26,Medium,Diesel,1.44,Litre,136.8
+Khed,Velhe,26,Low,CNG,1.18,Kg,100.3
+Khed,Mulshi,69,Low,Petrol,4.6,Litre,506.0
+Khed,Mulshi,69,High,Diesel,3.83,Litre,363.85
+Khed,Mulshi,69,Medium,CNG,3.14,Kg,266.9
+Khed,Maval,48,High,Petrol,3.2,Litre,352.0
+Khed,Maval,48,High,Diesel,2.67,Litre,253.65
+Khed,Maval,48,Medium,CNG,2.18,Kg,185.3
+Khed,Pimpri-Chinchwad City,49,High,Petrol,3.27,Litre,359.7
+Khed,Pimpri-Chinchwad City,49,Medium,Diesel,2.72,Litre,258.4
+Khed,Pimpri-Chinchwad City,49,Low,CNG,2.23,Kg,189.55
+Ambegaon,Junnar,56,Low,Petrol,3.73,Litre,410.3
+Ambegaon,Junnar,56,Low,Diesel,3.11,Litre,295.45
+Ambegaon,Junnar,56,High,CNG,2.55,Kg,216.75
+Ambegaon,Shirur,28,High,Petrol,1.87,Litre,205.7
+Ambegaon,Shirur,28,Medium,Diesel,1.56,Litre,148.2
+Ambegaon,Shirur,28,Low,CNG,1.27,Kg,107.95
+Ambegaon,Daund,84,Medium,Petrol,5.6,Litre,616.0
+Ambegaon,Daund,84,High,Diesel,4.67,Litre,443.65
+Ambegaon,Daund,84,High,CNG,3.82,Kg,324.7
+Ambegaon,Indapur,98,Medium,Petrol,6.53,Litre,718.3
+Ambegaon,Indapur,98,High,Diesel,5.44,Litre,516.8
+Ambegaon,Indapur,98,High,CNG,4.45,Kg,378.25
+Ambegaon,Baramati,30,Medium,Petrol,2.0,Litre,220.0
+Ambegaon,Baramati,30,Medium,Diesel,1.67,Litre,158.65
+Ambegaon,Baramati,30,Low,CNG,1.36,Kg,115.6
+Ambegaon,Purandar,81,Medium,Petrol,5.4,Litre,594.0
+Ambegaon,Purandar,81,Low,Diesel,4.5,Litre,427.5
+Ambegaon,Purandar,81,Low,CNG,3.68,Kg,312.8
+Ambegaon,Bhor,21,Low,Petrol,1.4,Litre,154.0
+Ambegaon,Bhor,21,Medium,Diesel,1.17,Litre,111.15
+Ambegaon,Bhor,21,Low,CNG,0.95,Kg,80.75
+Ambegaon,Velhe,67,Medium,Petrol,4.47,Litre,491.7
+Ambegaon,Velhe,67,High,Diesel,3.72,Litre,353.4
+Ambegaon,Velhe,67,High,CNG,3.05,Kg,259.25
+Ambegaon,Mulshi,26,High,Petrol,1.73,Litre,190.3
+Ambegaon,Mulshi,26,Medium,Diesel,1.44,Litre,136.8
+Ambegaon,Mulshi,26,Low,CNG,1.18,Kg,100.3
+Ambegaon,Maval,99,Medium,Petrol,6.6,Litre,726.0
+Ambegaon,Maval,99,High,Diesel,5.5,Litre,522.5
+Ambegaon,Maval,99,Medium,CNG,4.5,Kg,382.5
+Ambegaon,Pimpri-Chinchwad City,70,Low,Petrol,4.67,Litre,513.7
+Ambegaon,Pimpri-Chinchwad City,70,High,Diesel,3.89,Litre,369.55
+Ambegaon,Pimpri-Chinchwad City,70,High,CNG,3.18,Kg,270.3
+Junnar,Shirur,78,Medium,Petrol,5.2,Litre,572.0
+Junnar,Shirur,78,Low,Diesel,4.33,Litre,411.35
+Junnar,Shirur,78,Medium,CNG,3.55,Kg,301.75
+Junnar,Daund,36,Medium,Petrol,2.4,Litre,264.0
+Junnar,Daund,36,Medium,Diesel,2.0,Litre,190.0
+Junnar,Daund,36,High,CNG,1.64,Kg,139.4
+Junnar,Indapur,24,High,Petrol,1.6,Litre,176.0
+Junnar,Indapur,24,Medium,Diesel,1.33,Litre,126.35
+Junnar,Indapur,24,Low,CNG,1.09,Kg,92.65
+Junnar,Baramati,91,Medium,Petrol,6.07,Litre,667.7
+Junnar,Baramati,91,Medium,Diesel,5.06,Litre,480.7
+Junnar,Baramati,91,High,CNG,4.14,Kg,351.9
+Junnar,Purandar,66,Medium,Petrol,4.4,Litre,484.0
+Junnar,Purandar,66,Medium,Diesel,3.67,Litre,348.65
+Junnar,Purandar,66,Medium,CNG,3.0,Kg,255.0
+Junnar,Bhor,80,Low,Petrol,5.33,Litre,586.3
+Junnar,Bhor,80,High,Diesel,4.44,Litre,421.8
+Junnar,Bhor,80,High,CNG,3.64,Kg,309.4
+Junnar,Velhe,71,High,Petrol,4.73,Litre,520.3
+Junnar,Velhe,71,High,Diesel,3.94,Litre,374.3
+Junnar,Velhe,71,Low,CNG,3.23,Kg,274.55
+Junnar,Mulshi,22,Medium,Petrol,1.47,Litre,161.7
+Junnar,Mulshi,22,High,Diesel,1.22,Litre,115.9
+Junnar,Mulshi,22,Low,CNG,1.0,Kg,85.0
+Junnar,Maval,82,Low,Petrol,5.47,Litre,601.7
+Junnar,Maval,82,Medium,Diesel,4.56,Litre,433.2
+Junnar,Maval,82,High,CNG,3.73,Kg,317.05
+Junnar,Pimpri-Chinchwad City,31,High,Petrol,2.07,Litre,227.7
+Junnar,Pimpri-Chinchwad City,31,High,Diesel,1.72,Litre,163.4
+Junnar,Pimpri-Chinchwad City,31,Medium,CNG,1.41,Kg,119.85
+Shirur,Daund,56,Medium,Petrol,3.73,Litre,410.3
+Shirur,Daund,56,High,Diesel,3.11,Litre,295.45
+Shirur,Daund,56,Low,CNG,2.55,Kg,216.75
+Shirur,Indapur,25,Low,Petrol,1.67,Litre,183.7
+Shirur,Indapur,25,Low,Diesel,1.39,Litre,132.05
+Shirur,Indapur,25,Low,CNG,1.14,Kg,96.9
+Shirur,Baramati,80,High,Petrol,5.33,Litre,586.3
+Shirur,Baramati,80,Low,Diesel,4.44,Litre,421.8
+Shirur,Baramati,80,High,CNG,3.64,Kg,309.4
+Shirur,Purandar,65,Medium,Petrol,4.33,Litre,476.3
+Shirur,Purandar,65,Low,Diesel,3.61,Litre,342.95
+Shirur,Purandar,65,Low,CNG,2.95,Kg,250.75
+Shirur,Bhor,56,Medium,Petrol,3.73,Litre,410.3
+Shirur,Bhor,56,Medium,Diesel,3.11,Litre,295.45
+Shirur,Bhor,56,Medium,CNG,2.55,Kg,216.75
+Shirur,Velhe,80,High,Petrol,5.33,Litre,586.3
+Shirur,Velhe,80,Medium,Diesel,4.44,Litre,421.8
+Shirur,Velhe,80,High,CNG,3.64,Kg,309.4
+Shirur,Mulshi,54,Low,Petrol,3.6,Litre,396.0
+Shirur,Mulshi,54,Medium,Diesel,3.0,Litre,285.0
+Shirur,Mulshi,54,Medium,CNG,2.45,Kg,208.25
+Shirur,Maval,48,Medium,Petrol,3.2,Litre,352.0
+Shirur,Maval,48,Medium,Diesel,2.67,Litre,253.65
+Shirur,Maval,48,High,CNG,2.18,Kg,185.3
+Shirur,Pimpri-Chinchwad City,62,High,Petrol,4.13,Litre,454.3
+Shirur,Pimpri-Chinchwad City,62,Low,Diesel,3.44,Litre,326.8
+Shirur,Pimpri-Chinchwad City,62,Medium,CNG,2.82,Kg,239.7
+Daund,Indapur,60,Low,Petrol,4.0,Litre,440.0
+Daund,Indapur,60,Medium,Diesel,3.33,Litre,316.35
+Daund,Indapur,60,High,CNG,2.73,Kg,232.05
+Daund,Baramati,63,Low,Petrol,4.2,Litre,462.0
+Daund,Baramati,63,High,Diesel,3.5,Litre,332.5
+Daund,Baramati,63,High,CNG,2.86,Kg,243.1
+Daund,Purandar,24,High,Petrol,1.6,Litre,176.0
+Daund,Purandar,24,Medium,Diesel,1.33,Litre,126.35
+Daund,Purandar,24,Low,CNG,1.09,Kg,92.65
+Daund,Bhor,43,High,Petrol,2.87,Litre,315.7
+Daund,Bhor,43,Medium,Diesel,2.39,Litre,227.05
+Daund,Bhor,43,Medium,CNG,1.95,Kg,165.75
+Daund,Velhe,43,High,Petrol,2.87,Litre,315.7
+Daund,Velhe,43,Low,Diesel,2.39,Litre,227.05
+Daund,Velhe,43,High,CNG,1.95,Kg,165.75
+Daund,Mulshi,56,Low,Petrol,3.73,Litre,410.3
+Daund,Mulshi,56,Medium,Diesel,3.11,Litre,295.45
+Daund,Mulshi,56,Medium,CNG,2.55,Kg,216.75
+Daund,Maval,42,Medium,Petrol,2.8,Litre,308.0
+Daund,Maval,42,High,Diesel,2.33,Litre,221.35
+Daund,Maval,42,Low,CNG,1.91,Kg,162.35
+Daund,Pimpri-Chinchwad City,21,Medium,Petrol,1.4,Litre,154.0
+Daund,Pimpri-Chinchwad City,21,High,Diesel,1.17,Litre,111.15
+Daund,Pimpri-Chinchwad City,21,Low,CNG,0.95,Kg,80.75
+Indapur,Baramati,78,Medium,Petrol,5.2,Litre,572.0
+Indapur,Baramati,78,Low,Diesel,4.33,Litre,411.35
+Indapur,Baramati,78,High,CNG,3.55,Kg,301.75
+Indapur,Purandar,71,High,Petrol,4.73,Litre,520.3
+Indapur,Purandar,71,Low,Diesel,3.94,Litre,374.3
+Indapur,Purandar,71,Medium,CNG,3.23,Kg,274.55
+Indapur,Bhor,62,Low,Petrol,4.13,Litre,454.3
+Indapur,Bhor,62,High,Diesel,3.44,Litre,326.8
+Indapur,Bhor,62,Medium,CNG,2.82,Kg,239.7
+Indapur,Velhe,46,Low,Petrol,3.07,Litre,337.7
+Indapur,Velhe,46,Low,Diesel,2.56,Litre,243.2
+Indapur,Velhe,46,Low,CNG,2.09,Kg,177.65
+Indapur,Mulshi,68,Low,Petrol,4.53,Litre,498.3
+Indapur,Mulshi,68,Low,Diesel,3.78,Litre,359.1
+Indapur,Mulshi,68,High,CNG,3.09,Kg,262.65
+Indapur,Maval,62,High,Petrol,4.13,Litre,454.3
+Indapur,Maval,62,Low,Diesel,3.44,Litre,326.8
+Indapur,Maval,62,High,CNG,2.82,Kg,239.7
+Indapur,Pimpri-Chinchwad City,41,Medium,Petrol,2.73,Litre,300.3
+Indapur,Pimpri-Chinchwad City,41,Low,Diesel,2.28,Litre,216.6
+Indapur,Pimpri-Chinchwad City,41,Medium,CNG,1.86,Kg,158.1
+Baramati,Purandar,97,Medium,Petrol,6.47,Litre,711.7
+Baramati,Purandar,97,Low,Diesel,5.39,Litre,512.05
+Baramati,Purandar,97,Low,CNG,4.41,Kg,374.85
+Baramati,Bhor,70,High,Petrol,4.67,Litre,513.7
+Baramati,Bhor,70,Low,Diesel,3.89,Litre,369.55
+Baramati,Bhor,70,Low,CNG,3.18,Kg,270.3
+Baramati,Velhe,68,Low,Petrol,4.53,Litre,498.3
+Baramati,Velhe,68,Medium,Diesel,3.78,Litre,359.1
+Baramati,Velhe,68,Medium,CNG,3.09,Kg,262.65
+Baramati,Mulshi,86,High,Petrol,5.73,Litre,630.3
+Baramati,Mulshi,86,Medium,Diesel,4.78,Litre,454.1
+Baramati,Mulshi,86,Medium,CNG,3.91,Kg,332.35
+Baramati,Maval,96,Medium,Petrol,6.4,Litre,704.0
+Baramati,Maval,96,High,Diesel,5.33,Litre,506.35
+Baramati,Maval,96,High,CNG,4.36,Kg,370.6
+Baramati,Pimpri-Chinchwad City,90,Low,Petrol,6.0,Litre,660.0
+Baramati,Pimpri-Chinchwad City,90,Medium,Diesel,5.0,Litre,475.0
+Baramati,Pimpri-Chinchwad City,90,Low,CNG,4.09,Kg,347.65
+Purandar,Bhor,35,High,Petrol,2.33,Litre,256.3
+Purandar,Bhor,35,High,Diesel,1.94,Litre,184.3
+Purandar,Bhor,35,Medium,CNG,1.59,Kg,135.15
+Purandar,Velhe,94,Medium,Petrol,6.27,Litre,689.7
+Purandar,Velhe,94,High,Diesel,5.22,Litre,495.9
+Purandar,Velhe,94,High,CNG,4.27,Kg,362.95
+Purandar,Mulshi,76,High,Petrol,5.07,Litre,557.7
+Purandar,Mulshi,76,High,Diesel,4.22,Litre,400.9
+Purandar,Mulshi,76,Low,CNG,3.45,Kg,293.25
+Purandar,Maval,37,High,Petrol,2.47,Litre,271.7
+Purandar,Maval,37,Medium,Diesel,2.06,Litre,195.7
+Purandar,Maval,37,High,CNG,1.68,Kg,142.8
+Purandar,Pimpri-Chinchwad City,85,Low,Petrol,5.67,Litre,623.7
+Purandar,Pimpri-Chinchwad City,85,Medium,Diesel,4.72,Litre,448.4
+Purandar,Pimpri-Chinchwad City,85,Low,CNG,3.86,Kg,328.1
+Bhor,Velhe,53,Low,Petrol,3.53,Litre,388.3
+Bhor,Velhe,53,Medium,Diesel,2.94,Litre,279.3
+Bhor,Velhe,53,Low,CNG,2.41,Kg,204.85
+Bhor,Mulshi,55,High,Petrol,3.67,Litre,403.7
+Bhor,Mulshi,55,Medium,Diesel,3.06,Litre,290.7
+Bhor,Mulshi,55,High,CNG,2.5,Kg,212.5
+Bhor,Maval,56,Low,Petrol,3.73,Litre,410.3
+Bhor,Maval,56,Low,Diesel,3.11,Litre,295.45
+Bhor,Maval,56,High,CNG,2.55,Kg,216.75
+Bhor,Pimpri-Chinchwad City,24,High,Petrol,1.6,Litre,176.0
+Bhor,Pimpri-Chinchwad City,24,High,Diesel,1.33,Litre,126.35
+Bhor,Pimpri-Chinchwad City,24,Medium,CNG,1.09,Kg,92.65
+Velhe,Mulshi,66,High,Petrol,4.4,Litre,484.0
+Velhe,Mulshi,66,Low,Diesel,3.67,Litre,348.65
+Velhe,Mulshi,66,High,CNG,3.0,Kg,255.0
+Velhe,Maval,50,High,Petrol,3.33,Litre,366.3
+Velhe,Maval,50,High,Diesel,2.78,Litre,264.1
+Velhe,Maval,50,Low,CNG,2.27,Kg,192.95
+Velhe,Pimpri-Chinchwad City,29,Low,Petrol,1.93,Litre,212.3
+Velhe,Pimpri-Chinchwad City,29,Low,Diesel,1.61,Litre,152.95
+Velhe,Pimpri-Chinchwad City,29,Medium,CNG,1.32,Kg,112.2
+Mulshi,Maval,70,Medium,Petrol,4.67,Litre,513.7
+Mulshi,Maval,70,Medium,Diesel,3.89,Litre,369.55
+Mulshi,Maval,70,Low,CNG,3.18,Kg,270.3
+Mulshi,Pimpri-Chinchwad City,77,Low,Petrol,5.13,Litre,564.3
+Mulshi,Pimpri-Chinchwad City,77,High,Diesel,4.28,Litre,406.6
+Mulshi,Pimpri-Chinchwad City,77,Medium,CNG,3.5,Kg,297.5
+Maval,Pimpri-Chinchwad City,81,Low,Petrol,5.4,Litre,594.0
+Maval,Pimpri-Chinchwad City,81,Low,Diesel,4.5,Litre,427.5
+Maval,Pimpri-Chinchwad City,81,Low,CNG,3.68,Kg,312.8
